@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
 import 'package:latihan/app/modules/home/bindings/home_binding.dart';
-import 'package:latihan/app/modules/home/views/home_view.dart';
+import 'package:latihan/app/modules/home/views/home/main/home_view.dart';
 
 part 'app_routes.dart';
 
